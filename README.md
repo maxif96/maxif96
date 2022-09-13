@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 
 - I am in actively looking for a job, so, if you don't hurry this talent might not be available.
 
-- 📫 How to reach me: You can send me an email and I will answer you as soon as possible: maxifop96@gmail.com
+- 📫 How to reach me: You can send me an email and I will answer you as soon as possible (() -> maxifop96@gmail.com)
 
 - My skills: 
 
