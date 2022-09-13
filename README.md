@@ -43,6 +43,9 @@ Here are some ideas to get you started:
 ![](https://img.shields.io/badge/Mockito-008000?style=for-the-badge&logo=mock&logoColor=white)
 ![](https://img.shields.io/badge/JUnit-ED8B00?style=for-the-badge&logo=junit5&logoColor=white)
 
+![](https://img.shields.io/badge/SpringMVC-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![](https://img.shields.io/badge/ApiREST-59666C?style=for-the-badge&logo=api&logoColor=white)
+
 
 
 ![](https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
