@@ -26,6 +26,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: You can send me an email and I will answer you as soon as possible: maxifop96@gmail.com
 
 - My skills: 
+- 
 ![](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 ![](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
