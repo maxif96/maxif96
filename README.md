@@ -43,7 +43,7 @@ Here are some ideas to get you started:
 ![](https://img.shields.io/badge/Mockito-008000?style=for-the-badge&logo=mock&logoColor=white)
 ![](https://img.shields.io/badge/JUnit-ED8B00?style=for-the-badge&logo=junit5&logoColor=white)
 
-![](https://img.shields.io/badge/Spring-59666C-MVC-59666C?style=for-the-badge&logo=spring&logoColor=white)
+![](https://img.shields.io/badge/Spring-MVC-59666C?style=for-the-badge&logo=spring&logoColor=white)
 ![](https://img.shields.io/badge/Api-REST-59666C?style=for-the-badge&logo=api&logoColor=white)
 
 
