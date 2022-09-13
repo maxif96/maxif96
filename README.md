@@ -23,18 +23,18 @@ Here are some ideas to get you started:
 
 - I am in actively looking for a job, so, if you don't hurry this talent might not be available.
 
-- 📫 How to reach me: You can send me an email and I will answer you as soon as possible: ![](https://img.shields.io/badge/Gmail-59666C?style=for-the-badge&logo=gmail&logoColor=red) maxifop96@gmail.com
+- 📫 How to reach me: You can send me an email and I will answer you as soon as possible: maxifop96@gmail.com
 
 - My skills: 
 ![](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
- ![](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-  ![](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
- ![](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
-  ![](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
- ![](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white)
-  ![](https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
-  ![](https://img.shields.io/badge/Swagger-008000?style=for-the-badge&logo=swagger&logoColor=white)
-  ![](https://img.shields.io/badge/JUnit-ED8B00?style=for-the-badge&logo=junit5&logoColor=white)
-   ![](https://img.shields.io/badge/SpringSecurity-100000?style=for-the-badge&logo=springsecurity&logoColor=white)
+![](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
+![](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+![](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white)
+![](https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
+![](https://img.shields.io/badge/Swagger-008000?style=for-the-badge&logo=swagger&logoColor=white)
+![](https://img.shields.io/badge/JUnit-ED8B00?style=for-the-badge&logo=junit5&logoColor=white)
+![](https://img.shields.io/badge/SpringSecurity-100000?style=for-the-badge&logo=springsecurity&logoColor=white)
 
   
