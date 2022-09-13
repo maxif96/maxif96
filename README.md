@@ -34,4 +34,6 @@ Here are some ideas to get you started:
  ![](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white)
   ![](https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
   ![](https://img.shields.io/badge/Swagger-008000?style=for-the-badge&logo=swagger&logoColor=white)
-  ![](https://img.shields.io/badge/JUnit-59666C?style=for-the-badge&logo=junit5&logoColor=white)
+  ![](https://img.shields.io/badge/JUnit-ED8B00?style=for-the-badge&logo=junit5&logoColor=white)
+   ![](https://img.shields.io/badge/SpringSecurity-E44C30?style=for-the-badge&logo=springsecurity&logoColor=white)
+  
