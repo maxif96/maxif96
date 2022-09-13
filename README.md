@@ -40,6 +40,7 @@ Here are some ideas to get you started:
 
 
 ![](https://img.shields.io/badge/Swagger-008000?style=for-the-badge&logo=swagger&logoColor=white)
+![](https://img.shields.io/badge/Mockito-008000?style=for-the-badge&logo=mock&logoColor=white)
 ![](https://img.shields.io/badge/JUnit-ED8B00?style=for-the-badge&logo=junit5&logoColor=white)
 
 
