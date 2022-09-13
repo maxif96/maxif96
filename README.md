@@ -14,7 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
+- 🤖 About me: I am a curious and restless person, who always seeks to learn and be good at what I do. I think I'm like a sponge, absorbing and learning from everywhere.
+- 🖥 My main languaje is Java, for now.
 - 🔭 I’m currently working on adding some functionalities in the Api REST NGO-Proyect. I'm adding Spring AOP and cleaning the code. If you want to see what I can do you has to check it out. My next step then, is to finish my Disney-proyect.
 - 🌱 I’m currently learning about DDD (Drive Domain Design) and I am looking to learn microservices.
 - 📫 How to reach me: You can send me an email and I will answer you as soon as possible: maxifop96@gmail.com
