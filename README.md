@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- 🤖 About me: I am a curious and restless person, who always seeks to learn and be good at what I do. I think I'm like a sponge, absorbing and learning from everywhere.
+- 🤖 About me: I am a curious and restless person, who always seeks to learn and be good at what I do. I think I'm like a sponge, absorbing and learning from everywhere (University, YT videos, forums, people, animals, etcetera).
 - 🖥 My main languaje is Java, for now.
 - 🔭 I’m currently working on adding some functionalities in the Api REST NGO-Proyect. I'm adding Spring AOP and cleaning the code. If you want to see what I can do you has to check it out. My next step then, will be to finish my Disney-proyect.
 - 🌱 I’m currently learning about DDD (Drive Domain Design) and I am also looking to learn microservices.
