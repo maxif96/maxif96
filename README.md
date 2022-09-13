@@ -15,10 +15,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-🔭 I’m currently working on adding some functionalities in the Api REST NGO-Proyect. I'm adding Spring AOP and cleaning the code. If you want to see what I can do you has to check it out. My next step then, is to finish my Disney-proyect.
-🌱 I’m currently learning about DDD (Drive Domain Design) and I am looking to learn microservices.
-📫 How to reach me: You can send me an email and I will answer you as soon as possible: maxifop96@gmail.com
-⚡ My best quality: Flexibilty, no doubt. I did many things throughout my life, and I was always able to adapt.
-🤓 Random thought: I think about how important balance is: Be on the computer all day is not healthy. That's why I regularly do physical activity, I also do a little walk every day after lunch, and I read literature too. I think that disconnect is very important. Curiosly, I feel that those things make me smarter, a better developer, and a better problem solver 💪.
+- 🔭 I’m currently working on adding some functionalities in the Api REST NGO-Proyect. I'm adding Spring AOP and cleaning the code. If you want to see what I can do you has to check it out. My next step then, is to finish my Disney-proyect.
+- 🌱 I’m currently learning about DDD (Drive Domain Design) and I am looking to learn microservices.
+- 📫 How to reach me: You can send me an email and I will answer you as soon as possible: maxifop96@gmail.com
+- ⚡ My best quality: Flexibilty, no doubt. I did many things throughout my life, and I was always able to adapt.
+- 🤓 Random thought: I think about how important balance is: Be on the computer all day is not healthy. That's why I regularly do physical activity, I also do a little walk every day after lunch, and I read literature too. I think that disconnect is very important. Curiosly, I feel that those things make me smarter, a better developer, and a better problem solver 💪.
 
-I am in actively looking for work, if you don't hurry this talent may not be available.
+- I am in actively looking for work, if you don't hurry this talent may not be available.
