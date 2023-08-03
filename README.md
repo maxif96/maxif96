@@ -16,8 +16,6 @@ Here are some ideas to get you started:
 -->
 - 🤖 About me: I am a curious and restless person, who always seeks to learn and be good at what I do. I think I'm like a sponge, absorbing and learning from everywhere (University, YT videos, forums, people, animals, etcetera).
 - 🖥 My main languaje is Java, for now.
-- 🔭 At this point in time, I'm working on adding some functionalities in the Api REST NGO-Proyect. I'm adding Spring AOP and cleaning the code. If you want to see what I can do you have to check it out. Then, my next step will be to finish my Disney-proyect.
-- 🌱 I’m currently learning about DDD (Drive Domain Design) and delving into design patterns and SOLID principles. I am also looking to learn microservices.
 - ⚡ My best quality: Flexibilty, no doubt. I did many things throughout my life, and I was always able to adapt.
 - 🤓 Random thought: I think about how important balance is: Be on the computer all day is not healthy. That's why I regularly do physical activity, I also do a little walk every day after lunch, and read literature too. I think that disconnect is very important. Curiosly, I feel that those things make me smarter, a better developer, and a better problem solver 💪.
 
